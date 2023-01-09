@@ -21,7 +21,7 @@ pip install imutils
 pip install opencv-python
 ```
 
-## Using Script
+## Using the Script
 Inside the python shell (enter shell with ```pipenv shell```) run
 ```
 python lanedetection_averaging.py
